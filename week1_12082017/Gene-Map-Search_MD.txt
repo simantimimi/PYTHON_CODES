@@ -1,0 +1,390 @@
+	Map Search - 'muscular dystrophy (Entries with: gene map locus; Retrieve: gene map)'
+Downloaded:	Sep 17, 2017
+Copyright (c) 1966-2017 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+Cytogenetic location	Genomic coordinates (From NCBI/GRCh38)	Gene/Locus	Gene/Locus name	Gene/Locus MIM number	Comments	Phenotype	Phenotype MIM number	Inheritance	Pheno map key	Mouse Gene (from MGI)
+1p36.32	1:2404801-2412621	PEX10, NALD, PBD6A, PBD6B	Peroxisome biogenesis factor 10	602859		Peroxisome biogenesis disorder 6A (Zellweger)	614870	Autosomal recessive	3	Pex10
+1p36.32	1:2404801-2412621	PEX10, NALD, PBD6A, PBD6B	Peroxisome biogenesis factor 10	602859		Peroxisome biogenesis disorder 6B	614871	Autosomal recessive	3	Pex10
+1p36.31	1:6466091-6520060	PLEKHG5, KIAA0720, DSMA4, CMTRIC	Pleckstrin homology domain-containing protein, family G, member 5	611101		Spinal muscular atrophy, distal, autosomal recessive, 4	611067	Autosomal recessive	3	Plekhg5
+1p36.31	1:6466091-6520060	PLEKHG5, KIAA0720, DSMA4, CMTRIC	Pleckstrin homology domain-containing protein, family G, member 5	611101		Charcot-Marie-Tooth disease, recessive intermediate C	615376	Autosomal recessive	3	Plekhg5
+1p36.23	1:7961653-7985281	DJ1, PARK7	Oncogene DJ-1	602533		Parkinson disease 7, autosomal recessive early-onset	606324	Autosomal recessive	3	Park7
+1p36.22	1:9942922-9996738	NMNAT1, NMNAT, PNAT1, LCA9	Nicotinamide nucleotide adenylyltransferase 1	608700		Leber congenital amaurosis 9	608553	Autosomal recessive	3	Nmnat1
+1p36.22	1:11106530-11262550	MTOR, FRAP1, SKS	Mechanistic target of rapamycin	601231		Smith-Kingsmore syndrome	616638	Autosomal dominant	3	Mtor
+1p36.22	1:11106530-11262550	MTOR, FRAP1, SKS	Mechanistic target of rapamycin	601231		Focal cortical dysplasia, type II, somatic	607341		3	Mtor
+1p36.22	1:11273197-11299577	UBIAD1, TERE1, SCCD	UbiA prenyltransferase domain-containing protein 1	611632		Corneal dystrophy, Schnyder type	121800	Autosomal dominant	3	Ubiad1
+1p36.22	1:11934666-11975541	PLOD1, LH1, LLH, EDS6	Procollagen-lysine, 2-oxoglutarate 5-dioxygenase (lysine hydroxylase)	153454		Ehlers-Danlos syndrome, type VI	225400	Autosomal recessive	3	Plod1
+1p36.22	1:11980180-12013514	MFN2, KIAA0214, CMT2A2A, HMSN6A, CMT2A2B	Mitofusin 2	608507		Charcot-Marie-Tooth disease, axonal, type 2A2B	617087	Autosomal recessive	3	Mfn2
+1p36.22	1:11980180-12013514	MFN2, KIAA0214, CMT2A2A, HMSN6A, CMT2A2B	Mitofusin 2	608507		Charcot-Marie-Tooth disease, axonal, type 2A2A	609260	Autosomal dominant	3	Mfn2
+1p36.22	1:11980180-12013514	MFN2, KIAA0214, CMT2A2A, HMSN6A, CMT2A2B	Mitofusin 2	608507		Hereditary motor and sensory neuropathy VIA	601152	Autosomal dominant	3	Mfn2
+1p36.13	1:19215663-19251558	EMC1, KIAA0090, CAVIPMR	Endoplasmic reticulum membrane protein complex, subunit 1	616846		Cerebellar atrophy, visual impairment, and psychomotor retardation	616875	Autosomal recessive	3	Emc1
+1p36.13	1:20028349-20091900	PLA2G5, FRFB	Phospholipase A2, group V	601192		[Fleck retina, familial benign]	228980	Autosomal recessive	3	Pla2g5
+1p36.12	1:21217246-21345540	ECE1	Endothelin converting enzyme 1	600423	mutation identified in 1 HCAD patient	{Hypertension, essential, susceptibility to}	145500	Multifactorial	3	Ece1
+1p36.12	1:21217246-21345540	ECE1	Endothelin converting enzyme 1	600423	mutation identified in 1 HCAD patient	?Hirschsprung disease, cardiac defects, and autonomic dysfunction	613870	Autosomal dominant	3	Ece1
+1p36.12	1:21822231-21937296	HSPG2, PLC, SJS, SJA, SJS1	Heparan sulfate proteoglycan of basement membrane (perlecan)	142461		Dyssegmental dysplasia, Silverman-Handmaker type	224410	Autosomal recessive	3	Hspg2
+1p36.12	1:21822231-21937296	HSPG2, PLC, SJS, SJA, SJS1	Heparan sulfate proteoglycan of basement membrane (perlecan)	142461		Schwartz-Jampel syndrome, type 1	255800	Autosomal recessive	3	Hspg2
+1p36.12	1:22636624-22639681	C1QA	Complement component 1, q subcomponent, A chain	120550		C1q deficiency	613652	Autosomal recessive	3	C1qa
+1p36.12	1:22643624-22648109	C1QC, C1QG	Complement component 1, q subcomponent, C chain	120575		C1q deficiency	613652	Autosomal recessive	3	C1qc
+1p36.12	1:22653188-22661535	C1QB	Complement component 1, q subcomponent, B chain	120570		C1q deficiency	613652	Autosomal recessive	3	C1qb
+1p36.12	1:23304687-23344649	HNRPR, HNRNPR	Heterogeneous nuclear ribonucleoprotein R	607201					Hnrnpr
+1p36.11	1:23801876-23825458	HMGCL	3-hydroxy-3-methylglutaryl-Coenzyme A lyase	613898		HMG-CoA lyase deficiency	246450	Autosomal recessive	3	Hmgcl
+1p36.11	1:24056040-24112174	MYOM3	Myomesin 3	616832					Myom3
+1p36.11	1:25800175-25818221	SELENON, SEPN1, SELN, RSMD1, CFTD	Selenoprotein N	606210		Myopathy, congenital, with fiber-type disproportion	255310	Autosomal dominant; Autosomal recessive	3	Selenon
+1p36.11	1:25800175-25818221	SELENON, SEPN1, SELN, RSMD1, CFTD	Selenoprotein N	606210		Muscular dystrophy, rigid spine, 1	602771	Autosomal recessive	3	Selenon
+1p36.11	1:25884185-25906876	STMN1, LAP18, SMN	Stathmin	151442					Stmn1
+1p36.11	1:26696030-26782109	ARID1A, C1orf4, B120, SMARCF1, MRD14, CSS2	AT rich interactive domain 1A, SWI-like	603024		Coffin-Siris syndrome 2	614607	Autosomal dominant	3	Arid1a
+1p36.11	1:26787962-26798402	PIGV, HPMRS1	Phosphatidylinositol glycan, class V	610274		Hyperphosphatasia with mental retardation syndrome 1	239300	Autosomal recessive	3	Pigv
+1p36.11	1:26949555-26960483	KDF1, C1orf172, ECTD12	Keratinocyte differentiation factor 1	616758	mutation identified in 1 ECTD12 family	?Ectodermal dysplasia 12, hypohidrotic/hair/tooth/nail type	617337	Autosomal dominant	3	Kdf1
+1p35.2	1:30869465-30909734	SDC3, SYND3, SDCN	Syndecan 3	186357		{Obesity, association with}	601665	Multifactorial; Autosomal dominant; Autosomal recessive	3	Sdc3
+1p35.2	1:32200385-32205389	CCDC28B, MGC1203	Coiled-coil domain-containing protein 28B	610162		{Bardet-Biedl syndrome 1, modifier of}	209900	Autosomal recessive; Digenic recessive	3	Ccdc28b
+1p35.1	1:32775236-32818031	YARS, CMTDIC, TYRRS, YTS, YRS	Tyrosyl-tRNA synthetase	603623		Charcot-Marie-Tooth disease, dominant intermediate C	608323	Autosomal dominant	3	Yars
+1p34.3	1:36095235-36126206	COL8A2, FECD1, PPCD2	Collagen VIII, alpha-2 polypeptide	120252		Corneal dystrophy, posterior polymorphous 2	609140		3	Col8a2
+1p34.3	1:36095235-36126206	COL8A2, FECD1, PPCD2	Collagen VIII, alpha-2 polypeptide	120252		Corneal dystrophy, Fuchs endothelial, 1	136800	Autosomal dominant	3	Col8a2
+1p34.2	1:40072709-40097469	PPT1, CLN1	Palmitoyl-protein thioesterase 1	600722		Ceroid lipofuscinosis, neuronal, 1	256730	Autosomal recessive	3	Ppt1
+1p34.2	1:40258049-40294183	ZMPSTE24, FACE1, STE24, MADB	Zinc metalloproteinase STE24	606480		Restrictive dermopathy, lethal	275210	Autosomal recessive	3	Zmpste24
+1p34.2	1:40258049-40294183	ZMPSTE24, FACE1, STE24, MADB	Zinc metalloproteinase STE24	606480		Mandibuloacral dysplasia with type B lipodystrophy	608612	Autosomal recessive	3	Zmpste24
+1p34.2	1:42925374-42959175	SLC2A1, GLUT1, HTLVR, DYT18, PED, GLUT1DS, EIG12, DYT9, SDCHCN	Solute carrier family 2 (facilitated glucose transporter), member 1	138140	probably in 1p33	GLUT1 deficiency syndrome 1, infantile onset, severe	606777	Autosomal dominant; Autosomal recessive	3	Slc2a1
+1p34.2	1:42925374-42959175	SLC2A1, GLUT1, HTLVR, DYT18, PED, GLUT1DS, EIG12, DYT9, SDCHCN	Solute carrier family 2 (facilitated glucose transporter), member 1	138140	probably in 1p33	Dystonia 9	601042	Autosomal dominant	3	Slc2a1
+1p34.2	1:42925374-42959175	SLC2A1, GLUT1, HTLVR, DYT18, PED, GLUT1DS, EIG12, DYT9, SDCHCN	Solute carrier family 2 (facilitated glucose transporter), member 1	138140	probably in 1p33	{Epilepsy, idiopathic generalized, susceptibility to, 12}	614847	Autosomal dominant	3	Slc2a1
+1p34.2	1:42925374-42959175	SLC2A1, GLUT1, HTLVR, DYT18, PED, GLUT1DS, EIG12, DYT9, SDCHCN	Solute carrier family 2 (facilitated glucose transporter), member 1	138140	probably in 1p33	Stomatin-deficient cryohydrocytosis with neurologic defects	608885	Autosomal dominant	3	Slc2a1
+1p34.2	1:42925374-42959175	SLC2A1, GLUT1, HTLVR, DYT18, PED, GLUT1DS, EIG12, DYT9, SDCHCN	Solute carrier family 2 (facilitated glucose transporter), member 1	138140	probably in 1p33	GLUT1 deficiency syndrome 2, childhood onset	612126	Autosomal dominant	3	Slc2a1
+1p34.1-p32	1:43700000-60800000	PTOS1	Ptosis, congenital 1, autosomal dominant	178300		Ptosis, hereditary congenital, 1	178300	Autosomal dominant	2	
+1p34.1	1:44781835-44792827	BEST4, VMD2L2	Bestrophin 4	607336					
+1p34.1	1:45329241-45340924	MUTYH, MYH	MutY, E. coli, homolog of	604933		Gastric cancer, somatic	613659		3	Mutyh
+1p34.1	1:45329241-45340924	MUTYH, MYH	MutY, E. coli, homolog of	604933		Colorectal adenomatous polyposis, autosomal recessive, with pilomatricomas	132600	Somatic mutation	3	Mutyh
+1p34.1	1:45329241-45340924	MUTYH, MYH	MutY, E. coli, homolog of	604933		Adenomas, multiple colorectal	608456	Autosomal recessive	3	Mutyh
+1p34.1	1:45500183-45511265	MMACHC	MMACHC gene	609831		Methylmalonic aciduria and homocystinuria, cblC type	277400	Autosomal recessive	3	Mmachc
+1p34.1	1:46188680-46220304	POMGNT1, MEB, MDDGA3, MDDGB3, MDDGC3, RP76	Protein 0-mannose beta-1,2-N-acetylglucosaminyltransferase	606822		Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 3	613157	Autosomal recessive	3	Pomgnt1
+1p34.1	1:46188680-46220304	POMGNT1, MEB, MDDGA3, MDDGB3, MDDGC3, RP76	Protein 0-mannose beta-1,2-N-acetylglucosaminyltransferase	606822		Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 3	613151	Autosomal recessive	3	Pomgnt1
+1p34.1	1:46188680-46220304	POMGNT1, MEB, MDDGA3, MDDGB3, MDDGC3, RP76	Protein 0-mannose beta-1,2-N-acetylglucosaminyltransferase	606822		Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 3	253280	Autosomal recessive	3	Pomgnt1
+1p34.1	1:46188680-46220304	POMGNT1, MEB, MDDGA3, MDDGB3, MDDGC3, RP76	Protein 0-mannose beta-1,2-N-acetylglucosaminyltransferase	606822		Retinitis pigmentosa 76	617123	Autosomal recessive	3	Pomgnt1
+1p32.3	1:52686341-52698365	COA7, RESA1, SELRC1, C1orf163	Cytochrome C oxidase assembly factor	615623	mutation identified in 1 COX4D patient	?Mitochondrial complex IV deficiency	220110	Autosomal recessive; Mitochondrial	3	Coa7
+1p32.3	1:53196428-53214196	CPT2, IIAE4	Carnitine palmitoyltransferase II	600650	formerly at 1p13	{Encephalopathy, acute, infection-induced, 4, susceptibility to}	614212	Autosomal dominant; Autosomal recessive	3	Cpt2
+1p32.3	1:53196428-53214196	CPT2, IIAE4	Carnitine palmitoyltransferase II	600650	formerly at 1p13	CPT II deficiency, myopathic, stress-induced	255110	Autosomal dominant; Autosomal recessive	3	Cpt2
+1p32.3	1:53196428-53214196	CPT2, IIAE4	Carnitine palmitoyltransferase II	600650	formerly at 1p13	CPT II deficiency, lethal neonatal	608836	Autosomal recessive	3	Cpt2
+1p32.3	1:53196428-53214196	CPT2, IIAE4	Carnitine palmitoyltransferase II	600650	formerly at 1p13	CPT II deficiency, infantile	600649	Autosomal recessive	3	Cpt2
+1p32.2	1:56645316-56715334	PRKAA2, AMPK	Protein kinase, AMP-activated, alpha-2 catalytic subunit	600497					Prkaa2
+1p32.1	1:58575422-58577493	TACSTD2, TROP2, M1S1	Tumor-associated calcium signal transducer 2	137290		Corneal dystrophy, gelatinous drop-like	204870	Autosomal recessive	3	Tacstd2
+1p31.3	1:61077123-61462787	NFIA, BRMUTD	Nuclear factor I/A	600727		Brain malformations and urinary tract defects	613735	Isolated cases	3	Nfia
+1p31.3	1:63367589-63438561	ALG6, CDG1C	Alg6, S. cerevisiae, homolog of	604566		Congenital disorder of glycosylation, type Ic	603147	Autosomal recessive	3	Alg6
+1p31.3	1:68428821-68450321	RPE65, RP20, LCA2	Retinal pigment epithelium-specific protein, 65kD	180069		Leber congenital amaurosis 2	204100	Autosomal recessive	3	Rpe65
+1p31.3	1:68428821-68450321	RPE65, RP20, LCA2	Retinal pigment epithelium-specific protein, 65kD	180069		Retinitis pigmentosa 20	613794	Autosomal recessive	3	Rpe65
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		Cone-rod dystrophy 3	604116		3	Abca4
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		{Macular degeneration, age-related, 2}	153800	Autosomal dominant	3	Abca4
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		Stargardt disease 1	248200	Autosomal recessive	3	Abca4
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		Retinitis pigmentosa 19	601718	Autosomal recessive	3	Abca4
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		Retinal dystrophy, early-onset severe	248200	Autosomal recessive	3	Abca4
+1p22.1	1:93992836-94121148	ABCA4, ABCR, STGD1, FFM, RP19, CORD3, ARMD2	ATP-binding transporter, retina-specific	601691		Fundus flavimaculatus	248200	Autosomal recessive	3	Abca4
+1p21.3	1:97077742-97921058	DPYD, DPD	Dihydropyrimidine dehydrogenase	612779		Dihydropyrimidine dehydrogenase deficiency	274270	Autosomal recessive	3	Dpyd
+1p21.3	1:97077742-97921058	DPYD, DPD	Dihydropyrimidine dehydrogenase	612779		5-fluorouracil toxicity	274270	Autosomal recessive	3	Dpyd
+1p21.2	1:99850076-99924022	AGL, GDE	Amylo-1,6-glucosidase, 4-alpha-glucanotransferase (glycogen debranching enzyme)	610860		Glycogen storage disease IIIb	232400	Autosomal recessive	3	Agl
+1p21.2	1:99850076-99924022	AGL, GDE	Amylo-1,6-glucosidase, 4-alpha-glucanotransferase (glycogen debranching enzyme)	610860		Glycogen storage disease IIIa	232400	Autosomal recessive	3	Agl
+1p21.2	1:101236748-101241519	S1PR1, EDG1, S1P1	Sphingosine-1-phosphate receptor 1	601974					S1pr1
+1p13.3	1:108929507-108963498	CLCC1, MCLC	Chloride channel CLIC-like 1	617539					Clcc1
+1p13.3	1:111117331-111140215	DRAM2, TMEM77, CORD21	Damage-regulated autophagy modulator 2	613360		Cone-rod dystrophy 21	616502	Autosomal recessive	3	Dram2
+1p13.2	1:111755567-111767576	DDX20	DEAD/H box 20	606168					Ddx20
+1p13.2	1:112911846-112956352	SLC16A1, MCT1, HHF7, MCT1D	Solute carrier family 16 (monocarboxylic acid transporters), member 1	600682		Erythrocyte lactate transporter defect	245340	Autosomal dominant	3	Slc16a1
+1p13.2	1:112911846-112956352	SLC16A1, MCT1, HHF7, MCT1D	Solute carrier family 16 (monocarboxylic acid transporters), member 1	600682		Monocarboxylate transporter 1 deficiency	616095	Autosomal dominant; Autosomal recessive	3	Slc16a1
+1p13.2	1:112911846-112956352	SLC16A1, MCT1, HHF7, MCT1D	Solute carrier family 16 (monocarboxylic acid transporters), member 1	600682		Hyperinsulinemic hypoglycemia, familial, 7	610021	Autosomal dominant	3	Slc16a1
+1p13.2	1:113894193-113905201	AP4B1, SPG47, CPSQ5	Adaptor-related protein complex 4, beta-1 subunit	607245		Spastic paraplegia 47, autosomal recessive	614066	Autosomal recessive	3	Ap4b1
+1q	1:123400000-248956422	LRE2	LINE retrotransposable element-2	151628	inserted in DMD gene				
+1q12-q24	1:125100000-173000000	CORD8	Cone-rod dystrophy 8	605549		Cone-rod dystrophy 8	605549	Autosomal recessive	2	
+1q21.1	1:145911347-145918923	PEX11B, PEX14B	Peroxisome biogenesis 11B	603867	mutation identified in 1 PEX14B patient	?Peroxisome biogenesis disorder 14B	614920	Autosomal recessive	3	Pex11b
+1q21.3	1:150730195-150765956	CTSS	Cathepsin S	116845					Ctss
+1q21.3	1:151402723-151459464	POGZ, KIAA0461, MRD37, WHSUS	POGO transposable element with ZNF domain	614787		White-Sutton syndrome	616364	Autosomal dominant	3	Pogz
+1q21.3	1:152908562-152911885	IVL	Involucrin	147360					
+1q21.3	1:154155303-154192134	TPM3, NEM1, CFTD, CAPM1	Tropomyosin 3	191030	TRK = chimera of TPM3 and NTRK1; NEM1 to 1q21-q23 by Fd	CAP myopathy 1	609284	Autosomal dominant; Autosomal recessive	3	Tpm3
+1q21.3	1:154155303-154192134	TPM3, NEM1, CFTD, CAPM1	Tropomyosin 3	191030	TRK = chimera of TPM3 and NTRK1; NEM1 to 1q21-q23 by Fd	Nemaline myopathy 1, autosomal dominant or recessive	609284	Autosomal dominant; Autosomal recessive	3	Tpm3
+1q21.3	1:154155303-154192134	TPM3, NEM1, CFTD, CAPM1	Tropomyosin 3	191030	TRK = chimera of TPM3 and NTRK1; NEM1 to 1q21-q23 by Fd	Myopathy, congenital, with fiber-type disproportion	255310	Autosomal dominant; Autosomal recessive	3	Tpm3
+1q22	1:155139890-155140572	DPM3, CDG1O	Dolichyl-phosphate mannosyltransferase 3	605951		Congenital disorder of glycosylation, type Io	612937		3	Dpm3
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	Gaucher disease, type I	230800	Autosomal recessive	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	{Parkinson disease, late-onset, susceptibility to}	168600	Multifactorial; Isolated cases	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	Gaucher disease, perinatal lethal	608013	Autosomal recessive	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	{Lewy body dementia, susceptibility to}	127750	Autosomal dominant	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	Gaucher disease, type IIIC	231005	Autosomal recessive	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	Gaucher disease, type III	231000	Autosomal recessive	3	Gba
+1q22	1:155234447-155244861	GBA	Glucosidase, acid beta	606463	pseudogene GBAP ~16kb 3' to GBA	Gaucher disease, type II	230900	Autosomal recessive	3	Gba
+1q22	1:155262867-155273528	CLK2	CDC-like kinase 2	602989	near GDLD and PRKAA2; conflicting assignment 1q21				Clk2
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Charcot-Marie-Tooth disease, type 2B1	605588	Autosomal recessive	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Lipodystrophy, familial partial, type 2	151660	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Restrictive dermopathy, lethal	275210	Autosomal recessive	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Cardiomyopathy, dilated, 1A	115200	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Hutchinson-Gilford progeria	176670	Autosomal dominant; Autosomal recessive	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Muscular dystrophy, limb-girdle, type 1B	159001	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Heart-hand syndrome, Slovenian type	610140	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Muscular dystrophy, congenital	613205	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Emery-Dreifuss muscular dystrophy 3, AR	616516	Autosomal recessive	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Mandibuloacral dysplasia	248370	Autosomal recessive	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Emery-Dreifuss muscular dystrophy 2, AD	181350	Autosomal dominant	3	Lmna
+1q22	1:156082545-156140088	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	Lamin A/C	150330		Malouf syndrome	212112	Autosomal dominant	3	Lmna
+1q22	1:156149672-156177750	SEMA4A, SEMB, RP35, CORD10	Semaphorin 4A	607292		Retinitis pigmentosa 35	610282	Autosomal dominant; Autosomal recessive	3	Sema4a
+1q22	1:156149672-156177750	SEMA4A, SEMB, RP35, CORD10	Semaphorin 4A	607292		Cone-rod dystrophy 10	610283	Autosomal recessive	3	Sema4a
+1q22	1:156463720-156500841	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	600663					Mef2d
+1q23.1	1:156815749-156881849	NTRK1, TRKA, MTC	Neurotrophic tyrosine kinase, receptor, type 1	191315	TRK = chimera of TPM3 and NTRK1	Medullary thyroid carcinoma, familial	155240	Autosomal dominant	3	Ntrk1
+1q23.1	1:156815749-156881849	NTRK1, TRKA, MTC	Neurotrophic tyrosine kinase, receptor, type 1	191315	TRK = chimera of TPM3 and NTRK1	Insensitivity to pain, congenital, with anhidrosis	256800	Autosomal recessive	3	Ntrk1
+1q23.2	1:159712288-159714622	CRP	C-reactive protein	123260					Crp
+1q23.2	1:160190494-160201885	CASQ1, VMCQA	Calsequestrin, fast-twitch, skeletal muscle-1	114250		Myopathy, vacuolar, with CASQ1 aggregates	616231	Autosomal dominant	3	Casq1
+1q23.3	1:161165727-161178276	PPOX	Protoporphyrinogen oxidase	600923		Porphyria variegata	176200	Autosomal dominant	3	Ppox
+1q23.3	1:161197376-161214394	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kD	602985		Mitochondrial complex I deficiency	252010	X-linked dominant; Autosomal recessive; Mitochondrial	3	Ndufs2
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Charcot-Marie-Tooth disease, type 2J	607736	Autosomal dominant	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Charcot-Marie-Tooth disease, type 2I	607677	Autosomal dominant	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Charcot-Marie-Tooth disease, type 1B	118200	Autosomal dominant	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Roussy-Levy syndrome	180800	Autosomal dominant	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Charcot-Marie-Tooth disease, dominant intermediate D	607791	Autosomal dominant	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Neuropathy, congenital hypomyelinating	605253	Autosomal dominant; Autosomal recessive	3	Mpz
+1q23.3	1:161303592-161309971	MPZ, CMT1B, CMTDID, CHM, DSS	Myelin protein zero	159440		Dejerine-Sottas disease	145900	Autosomal dominant; Autosomal recessive	3	Mpz
+1q24.2	1:169463908-169485969	SLC19A2, THTR1, TRMA, THMD1	Solute carrier family 19 (thiamine transporter), member 2	603941		Thiamine-responsive megaloblastic anemia syndrome	249270	Autosomal recessive	3	Slc19a2
+1q25.2	1:179882041-179920076	TOR1AIP1, LAP1, LAP1B, LGMD2Y	Torsin A-interacting protein 1	614512	mutation identified in 1 LGMD2Y family	?Muscular dystrophy, limb-girdle, type 2Y	617072	Autosomal recessive	3	Tor1aip1
+1q25.3	1:182378092-182392205	GLUL, GLNS	Glutamate-ammonia ligase (glutamine synthase)	138290	pseudogene on chr.9	Glutamine deficiency, congenital	610015	Autosomal recessive	3	Glul
+1q25.3	1:183186038-183245126	LAMC2, LAMNB2, LAMB2T	Laminin, gamma-2 (nicein, 100kD; kalinin, 105kD; BM600, 100kD)	150292		Epidermolysis bullosa, junctional, non-Herlitz type	226650	Autosomal recessive	3	Lamc2
+1q25.3	1:183186038-183245126	LAMC2, LAMNB2, LAMB2T	Laminin, gamma-2 (nicein, 100kD; kalinin, 105kD; BM600, 100kD)	150292		Epidermolysis bullosa, junctional, Herlitz type	226700	Autosomal recessive	3	Lamc2
+1q25.3-q31.1	1:185734525-186190952	HMCN1, FBLN6, FIBL6, ARMD1	Hemicentin (fibulin 6)	608548		{Macular degeneration, age-related, 1}	603075	Autosomal dominant	3	Hmcn1
+1q31.3	1:196651877-196747503	CFH, HF1, HUS, ARMD4, AHUS1	Complement factor H	134370		{Macular degeneration, age-related, 4}	610698		3	Cfh
+1q31.3	1:196651877-196747503	CFH, HF1, HUS, ARMD4, AHUS1	Complement factor H	134370		{Hemolytic uremic syndrome, atypical, susceptibility to, 1}	235400	Autosomal dominant; Autosomal recessive	3	Cfh
+1q31.3	1:196651877-196747503	CFH, HF1, HUS, ARMD4, AHUS1	Complement factor H	134370		Complement factor H deficiency	609814	Autosomal dominant; Autosomal recessive	3	Cfh
+1q31.3	1:196651877-196747503	CFH, HF1, HUS, ARMD4, AHUS1	Complement factor H	134370		Basal laminar drusen	126700	Autosomal dominant	3	Cfh
+1q31.3	1:196774799-196794072	CFHR3, FHR3, HLF4, CFHL3	Complement factor H-related 3	605336		{Macular degeneration, age-related, reduced risk of}	603075	Autosomal dominant	3	
+1q31.3	1:196774799-196794072	CFHR3, FHR3, HLF4, CFHL3	Complement factor H-related 3	605336		{Hemolytic uremic syndrome, atypical, susceptibility to}	235400	Autosomal dominant; Autosomal recessive	3	
+1q31.3	1:196819729-196832188	CFHR1, FHR1, HFL1, CFHL1	Complement factor H-related 1	134371		{Macular degeneration, age-related, reduced risk of}	603075	Autosomal dominant	3	Cfhr1
+1q31.3	1:196819729-196832188	CFHR1, FHR1, HFL1, CFHL1	Complement factor H-related 1	134371		{Hemolytic uremic syndrome, atypical, susceptibility to}	235400	Autosomal dominant; Autosomal recessive	3	Cfhr1
+1q31.3	1:197201461-197478454	CRB1, RP12, LCA8	Crumbs, Drosophila, homolog of, 1	604210		Leber congenital amaurosis 8	613835		3	Crb1
+1q31.3	1:197201461-197478454	CRB1, RP12, LCA8	Crumbs, Drosophila, homolog of, 1	604210		Retinitis pigmentosa-12, autosomal recessive	600105	Autosomal recessive	3	Crb1
+1q31.3	1:197201461-197478454	CRB1, RP12, LCA8	Crumbs, Drosophila, homolog of, 1	604210		Pigmented paravenous chorioretinal atrophy	172870	Autosomal dominant	3	Crb1
+1q32.1	1:201039508-201112565	CACNA1S, CACNL1A3, CCHL1A3, TTPP1, HOKPP1	Calcium channel, voltage-dependent, L type, alpha 1S subunit	114208	in mouse, mutation causes muscular dysgenesis	{Thyrotoxic periodic paralysis, susceptibility to, 1}	188580	Isolated cases	3	Cacna1s
+1q32.1	1:201039508-201112565	CACNA1S, CACNL1A3, CCHL1A3, TTPP1, HOKPP1	Calcium channel, voltage-dependent, L type, alpha 1S subunit	114208	in mouse, mutation causes muscular dysgenesis	{Malignant hyperthermia susceptibility 5}	601887	Autosomal dominant	3	Cacna1s
+1q32.1	1:201039508-201112565	CACNA1S, CACNL1A3, CCHL1A3, TTPP1, HOKPP1	Calcium channel, voltage-dependent, L type, alpha 1S subunit	114208	in mouse, mutation causes muscular dysgenesis	Hypokalemic periodic paralysis, type 1	170400	Autosomal dominant	3	Cacna1s
+1q32.1	1:202940824-202958571	ADIPOR1, CGI45	Adiponectin receptor 1	607945					Adipor1
+1q32.1	1:204154815-204166336	REN, HNFJ2	Renin	179820	~24cM distal to AT3	[Hyperproreninemia]			3	Ren1
+1q32.1	1:204154815-204166336	REN, HNFJ2	Renin	179820	~24cM distal to AT3	Renal tubular dysgenesis	267430	Autosomal recessive	3	Ren1
+1q32.1	1:204154815-204166336	REN, HNFJ2	Renin	179820	~24cM distal to AT3	Hyperuricemic nephropathy, familial juvenile 2	613092	Autosomal dominant	3	Ren1
+1q32.1	1:206767602-206772493	IL10, CSIF, GVHDS	Interleukin-10	124092		{HIV-1, susceptibility to}	609423		3	Il10
+1q32.1	1:206767602-206772493	IL10, CSIF, GVHDS	Interleukin-10	124092		{Graft-versus-host disease, protection against}	614395		3	Il10
+1q32.1	1:206767602-206772493	IL10, CSIF, GVHDS	Interleukin-10	124092		{Rheumatoid arthritis, progression of}	180300		3	Il10
+1q32.2	1:209614869-209653076	LAMB3, AI1A	Laminin, beta-3 (nicein, 125kD; kalinin, 140kD; BM600, 125kD)	150310		Epidermolysis bullosa, junctional, Herlitz type	226700	Autosomal recessive	3	Lamb3
+1q32.2	1:209614869-209653076	LAMB3, AI1A	Laminin, beta-3 (nicein, 125kD; kalinin, 140kD; BM600, 125kD)	150310		Amelogenesis imperfecta, type IA	104530	Autosomal dominant	3	Lamb3
+1q32.2	1:209614869-209653076	LAMB3, AI1A	Laminin, beta-3 (nicein, 125kD; kalinin, 140kD; BM600, 125kD)	150310		Epidermolysis bullosa, junctional, non-Herlitz type	226650	Autosomal recessive	3	Lamb3
+1q32.3	1:211476521-211492916	RD3, LCA12, C1orf36	Retinal degeneration 3, mouse, homolog of	180040		Leber congenital amaurosis 12	610612	Autosomal recessive	3	Rd3
+1q41	1:214603180-214664573	CENPF, CILD31, STROMS	Centromere autoantigen F, 400kD	600236		Stromme syndrome	243605	Autosomal recessive	3	Cenpf
+1q41	1:215622893-216423395	USH2A, RP39	Usherin	608400		Usher syndrome, type 2A	276901	Autosomal recessive	3	Ush2a
+1q41	1:215622893-216423395	USH2A, RP39	Usherin	608400		Retinitis pigmentosa 39	613809		3	Ush2a
+1q41	1:223701592-223776017	CAPN2	Calpain, large polypeptide L2	114230					Capn2
+1q42	1:223900000-236400000	MDC1B	Muscular dystrophy, congenital, 1B	604801		Muscular dystrophy, congenital, 1B	604801	Autosomal recessive	2	
+1q42.13	1:226989864-227318491	CDC42BPA, PK428, MRCKA	CDC42-binding protein kinase alpha	603412					Cdc42bpa
+1q42.13	1:229431244-229434095	ACTA1, ASMA, NEM3, CFTD1, SHPM	Actin, alpha-1, skeletal muscle	102610	mutation identified in 1 SHPM family	Nemaline myopathy 3, autosomal dominant or recessive	161800	Autosomal dominant; Autosomal recessive	3	Acta1
+1q42.13	1:229431244-229434095	ACTA1, ASMA, NEM3, CFTD1, SHPM	Actin, alpha-1, skeletal muscle	102610	mutation identified in 1 SHPM family	Myopathy, congenital, with fiber-type disproportion 1	255310	Autosomal dominant; Autosomal recessive	3	Acta1
+1q42.13	1:229431244-229434095	ACTA1, ASMA, NEM3, CFTD1, SHPM	Actin, alpha-1, skeletal muscle	102610	mutation identified in 1 SHPM family	Myopathy, actin, congenital, with excess of thin myofilaments	161800	Autosomal dominant; Autosomal recessive	3	Acta1
+1q42.13	1:229431244-229434095	ACTA1, ASMA, NEM3, CFTD1, SHPM	Actin, alpha-1, skeletal muscle	102610	mutation identified in 1 SHPM family	Myopathy, actin, congenital, with cores	161800	Autosomal dominant; Autosomal recessive	3	Acta1
+1q42.13	1:229431244-229434095	ACTA1, ASMA, NEM3, CFTD1, SHPM	Actin, alpha-1, skeletal muscle	102610	mutation identified in 1 SHPM family	?Myopathy, scapulohumeroperoneal	616852	Autosomal dominant	3	Acta1
+1q42.2	1:230979074-231000732	ARV1, EIEE38	ARV1, S. cerevisiae, homolog of	611647		Epileptic encephalopathy, early infantile, 38	617020	Autosomal recessive	3	Arv1
+1q42.2	1:231337935-231355028	SPRTN, DVC1, C1orf124, RJALS	SprT-like N-terminal domain protein	616086		Ruijs-Aalfs syndrome	616200	Autosomal recessive	3	Sprtn
+1q42.3	1:235367359-235448967	TBCE, KCS, KCS1, HRD, PEAMO	Tubulin-specific chaperone E	604934		Hypoparathyroidism-retardation-dysmorphism syndrome	241410	Autosomal recessive	3	Tbce
+1q42.3	1:235367359-235448967	TBCE, KCS, KCS1, HRD, PEAMO	Tubulin-specific chaperone E	604934		Encephalopathy, progressive, with amyotrophy and optic atrophy	617207	Autosomal recessive	3	Tbce
+1q42.3	1:235367359-235448967	TBCE, KCS, KCS1, HRD, PEAMO	Tubulin-specific chaperone E	604934		Kenny-Caffey syndrome, type 1	244460	Autosomal recessive	3	Tbce
+1q42.3	1:235440653-235504480	B3GALNT2, MGC39558, MDDGA11	Beta-1,3-N-acetylgalactosaminyltransferase 2	610194		Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies, type A, 11	615181	Autosomal recessive	3	B3galnt2
+1q43	1:236686453-236764630	ACTN2, CMD1AA, CMH23	Actinin, alpha-2	102573		Cardiomyopathy, hypertrophic, 23, with or without LVNC	612158	Autosomal dominant	3	Actn2
+1q43	1:236686453-236764630	ACTN2, CMD1AA, CMH23	Actinin, alpha-2	102573		Cardiomyopathy, dilated, 1AA, with or without LVNC	612158	Autosomal dominant	3	Actn2
+1q43-q44	1:243255327-243500091	SDCCAG8, CCCAP, SLSN7, BBS16	Serologically defined colon cancer antigen 8	613524		Senior-Loken syndrome 7	613615		3	Sdccag8
+1q43-q44	1:243255327-243500091	SDCCAG8, CCCAP, SLSN7, BBS16	Serologically defined colon cancer antigen 8	613524		Bardet-Biedl syndrome 16	615993	Autosomal recessive	3	Sdccag8
+1q44	1:244835305-244845062	COX20, FAM36A	Cytochrome c oxidase 20, S. cerevisiae, homolog of	614698		Mitochondrial complex IV deficiency	220110	Autosomal recessive; Mitochondrial	3	Cox20
+2p25.1	2:11677543-11827408	LPIN1	Lipin 1	605518	related to LSL	Myoglobinuria, acute recurrent, autosomal recessive	268200	Autosomal recessive	3	Lpin1
+2p24.3	2:14998066-15561347	NBAS, NAG, SOPH, ILFS2	Neuroblastoma-amplified sequence	608025		Short stature, optic nerve atrophy, and Pelger-Huet anomaly	614800	Autosomal recessive	3	Nbas
+2p24.3	2:14998066-15561347	NBAS, NAG, SOPH, ILFS2	Neuroblastoma-amplified sequence	608025		Infantile liver failure syndrome 2	616483	Autosomal recessive	3	Nbas
+2p24.1	2:19910259-19990122	WDR35, NAOFEN, KIAA1336, CED2, SRTD7	WD repeat-containing protein 35	613602		Short-rib thoracic dysplasia 7 with or without polydactyly	614091	Autosomal recessive	3	Wdr35
+2p24.1	2:19910259-19990122	WDR35, NAOFEN, KIAA1336, CED2, SRTD7	WD repeat-containing protein 35	613602		Cranioectodermal dysplasia 2	613610	Autosomal recessive	3	Wdr35
+2p23.3	2:25377219-25673646	DTNB	Dystrobrevin, beta	602415					Dtnb
+2p23.3	2:26190634-26244725	HADHA, MTPA	Hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/ enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	600890		HELLP syndrome, maternal, of pregnancy	609016	Autosomal recessive	3	Hadha
+2p23.3	2:26190634-26244725	HADHA, MTPA	Hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/ enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	600890		Fatty liver, acute, of pregnancy	609016	Autosomal recessive	3	Hadha
+2p23.3	2:26190634-26244725	HADHA, MTPA	Hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/ enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	600890		Trifunctional protein deficiency	609015	Autosomal recessive	3	Hadha
+2p23.3	2:26190634-26244725	HADHA, MTPA	Hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/ enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	600890		LCHAD deficiency	609016	Autosomal recessive	3	Hadha
+2p23.3	2:27051422-27070621	AGBL5, CCP5, RP75	AATP/GTP-binding protein-like 5	615900		Retinitis pigmentosa 75	617023	Autosomal recessive	3	Agbl5
+2p23.3	2:27444372-27489818	IFT172, SLB, KIAA1179, SRTD10, RP71	Intraflagellar transport 172, Chlamydomonas, homolog of	607386		Short-rib thoracic dysplasia 10 with or without polydactyly	615630	Autosomal recessive	3	Ift172
+2p23.3	2:27444372-27489818	IFT172, SLB, KIAA1179, SRTD10, RP71	Intraflagellar transport 172, Chlamydomonas, homolog of	607386		Retinitis pigmentosa 71	616394	Autosomal recessive	3	Ift172
+2p23.2	2:29061689-29074260	C2orf71	Chromosome 2 open reading frame 71	613425		Retinitis pigmentosa 54	613428		3	BC027072
+2p23.1	2:31522485-31665650	SRD5A2	Steroid-5-alpha-reductase, alpha polypeptide-2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha-2)	607306		Pseudovaginal perineoscrotal hypospadias	264600	Autosomal recessive	3	Srd5a2
+2p21	2:41500000-47500000	DEL2p21, C2DELp21	Homozygous 2p21 deletion syndrome	606407	contiguous gene syndrome disrupting SLC3A1 and PREPL genes	Hypotonia-cystinuria syndrome	606407	Autosomal recessive	4	
+2p21	2:43774038-43828491	DYNC2LI1, D2LIC, LIC3, SRTD15	Dynein, cytoplasmic 2, light intermediate chain 1	617083		Short-rib thoracic dysplasia 15 with polydactyly	617088	Autosomal recessive	3	Dync2li1
+2p21	2:43886223-43996004	LRPPRC, LRP130, LSFC	Leucine-rich PPR motif-containing protein	607544		Leigh syndrome, French-Canadian type	220111	Autosomal recessive	3	Lrpprc
+2p21	2:45651314-46187989	PRKCE, PKCE	Protein kinase C, epsilon	176975					Prkce
+2p21-p16	2:47403066-47634500	MSH2, COCA1, FCC1, HNPCC1	mutS, E. coli, homolog of, 2	609309		Muir-Torre syndrome	158320	Autosomal dominant	3	Msh2
+2p21-p16	2:47403066-47634500	MSH2, COCA1, FCC1, HNPCC1	mutS, E. coli, homolog of, 2	609309		Mismatch repair cancer syndrome	276300	Autosomal recessive	3	Msh2
+2p21-p16	2:47403066-47634500	MSH2, COCA1, FCC1, HNPCC1	mutS, E. coli, homolog of, 2	609309		Colorectal cancer, hereditary nonpolyposis, type 1	120435	Autosomal dominant	3	Msh2
+2p16.3	2:48686773-48755740	LHCGR, LHR, LCGR	Luteinizing hormone/choriogonadotropin receptor	152790		Leydig cell adenoma, somatic, with precocious puberty	176410		3	Lhcgr
+2p16.3	2:48686773-48755740	LHCGR, LHR, LCGR	Luteinizing hormone/choriogonadotropin receptor	152790		Precocious puberty, male	176410	Autosomal dominant	3	Lhcgr
+2p16.3	2:48686773-48755740	LHCGR, LHR, LCGR	Luteinizing hormone/choriogonadotropin receptor	152790		Luteinizing hormone resistance, female	238320	Autosomal recessive	3	Lhcgr
+2p16.3	2:48686773-48755740	LHCGR, LHR, LCGR	Luteinizing hormone/choriogonadotropin receptor	152790		Leydig cell hypoplasia with pseudohermaphroditism	238320	Autosomal recessive	3	Lhcgr
+2p16.3	2:48686773-48755740	LHCGR, LHR, LCGR	Luteinizing hormone/choriogonadotropin receptor	152790		Leydig cell hypoplasia with hypergonadotropic hypogonadism	238320	Autosomal recessive	3	Lhcgr
+2p16.2	2:53852912-53860032	GPR75	G protein-coupled receptor 75	606704					Gpr75
+2p16.1	2:55865961-55924162	EFEMP1, FBNL, DHRD	EGF-containing fibulin-like extracellular matrix protein 1 (fibrillin-like)	601548		Doyne honeycomb degeneration of retina	126600	Autosomal dominant	3	Efemp1
+2p15	2:61017676-61051989	PEX13, ZWS, NALD, PBD11A, PBD11B	Peroxisome biogenesis factor 13 (peroxin 13)	601789		Peroxisome biogenesis disorder 11B	614885	Autosomal recessive	3	Pex13
+2p15	2:61017676-61051989	PEX13, ZWS, NALD, PBD11A, PBD11B	Peroxisome biogenesis factor 13 (peroxin 13)	601789		Peroxisome biogenesis disorder 11A (Zellweger)	614883	Autosomal recessive	3	Pex13
+2p15	2:61800239-61856073	FAM161A, RP28	Family with sequence similarity 161, member A	613596		Retinitis pigmentosa 28	606068		3	Fam161a
+2p15	2:63120754-63840824	WDPCP, C2orf86, BBS15, CHDTHP	WD repeat-containing planar cell polarity effector	613580	mutation identified in 1 BBS15 family and 1 CHDTHP patient	?Congenital heart defects, hamartomas of tongue, and polysyndactyly	217085	Autosomal recessive	3	Wdpcp
+2p15	2:63120754-63840824	WDPCP, C2orf86, BBS15, CHDTHP	WD repeat-containing planar cell polarity effector	613580	mutation identified in 1 BBS15 family and 1 CHDTHP patient	?Bardet-Biedl syndrome 15	615992	Autosomal recessive	3	Wdpcp
+2p15-p14	2:63892148-64019420	VPS54, VPS54L, WR	Vacuolar protein sorting 54, S. Cerevisiae, homolog of	614633					Vps54
+2p14	2:65086853-65130300	RAB1, RAB1A	RAB1, member RAS oncogene family	179508					Rab1a
+2p13.3	2:70209443-70248792	TIA1, WDM	TIA1 cytotoxic granule-associated RNA-binding protein	603518		Welander distal myopathy	604454	Autosomal dominant; Autosomal recessive	3	Tia1
+2p13.2	2:71453154-71686762	DYSF, LGMD2B, MMD1	Dysferlin	603009		Myopathy, distal, with anterior tibial onset	606768	Autosomal recessive	3	Dysf
+2p13.2	2:71453154-71686762	DYSF, LGMD2B, MMD1	Dysferlin	603009		Muscular dystrophy, limb-girdle, type 2B	253601	Autosomal recessive	3	Dysf
+2p13.2	2:71453154-71686762	DYSF, LGMD2B, MMD1	Dysferlin	603009		Miyoshi muscular dystrophy 1	254130	Autosomal recessive	3	Dysf
+2p13.1	2:73385757-73609918	ALMS1, ALSS, KIAA0328	Alstrom syndrome gene	606844		Alstrom syndrome	203800	Autosomal recessive	3	Alms1
+2p13.1	2:73892965-73919652	ACTG2, ACTA3, VSCM	Actin, gamma-2, smooth muscle, enteric	102545		Visceral myopathy	155310	Autosomal dominant	3	Actg2
+2p13.1	2:74361153-74392086	DCTN1, HMN7B	Dynactin 1 (p150, glued, Drosophila, homolog of)	601143		Perry syndrome	168605	Autosomal dominant	3	Dctn1
+2p13.1	2:74361153-74392086	DCTN1, HMN7B	Dynactin 1 (p150, glued, Drosophila, homolog of)	601143		Neuropathy, distal hereditary motor, type VIIB	607641	Autosomal dominant	3	Dctn1
+2p13.1	2:74361153-74392086	DCTN1, HMN7B	Dynactin 1 (p150, glued, Drosophila, homolog of)	601143		{Amyotrophic lateral sclerosis, susceptibility to}	105400	Autosomal dominant; Autosomal recessive	3	Dctn1
+2p13.1	2:74529404-74533555	HTRA2, OMI, PARK13, PRSS25, MGCA8	HTRA serine peptidase 2	606441		{Parkinson disease 13}	610297		3	Htra2
+2p13.1	2:74529404-74533555	HTRA2, OMI, PARK13, PRSS25, MGCA8	HTRA serine peptidase 2	606441		3-methylglutaconic aciduria, type VIII	617248	Autosomal recessive	3	Htra2
+2p11.2	2:84423522-84459461	SUCLG1, SUCLA1, MTDPS9	Succinate-CoA ligase, alpha subunit	611224		Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)	245400	Autosomal recessive	3	Suclg1
+2p11.2	2:86213992-86338082	REEP1, C2orf23, SPG31, HMN5B	Receptor expression-enhancing protein 1	609139	mutation identified in 1 HMN5B family	?Neuronopathy, distal hereditary motor, type VB	614751	Autosomal dominant	3	Reep1
+2p11.2	2:86213992-86338082	REEP1, C2orf23, SPG31, HMN5B	Receptor expression-enhancing protein 1	609139	mutation identified in 1 HMN5B family	Spastic paraplegia 31, autosomal dominant	610250	Autosomal dominant	3	Reep1
+2p11.2	2:88857360-88857682	IGKC, IGKCD	Immunoglobulin kappa constant region	147200		Kappa light chain deficiency	614102	Autosomal recessive	3	
+2q11.2	2:96760901-96811890	CNNM4, ACDP4	Cyclin M4	607805		Jalili syndrome	217080	Autosomal recessive	3	Cnnm4
+2q11.2	2:98346154-98399153	CNGA3, CNG3, ACHM2	Cyclic nucleotide-gated channel, alpha-3	600053		Achromatopsia 2	216900	Autosomal recessive	3	Cnga3
+2q12.3	2:107986513-108014496	SLC5A7, CHT1, HMN7A, CMS20	Solute carrier family 5 (choline transporter), member 7	608761		Neuronopathy, distal hereditary motor, type VIIA	158580	Autosomal dominant	3	Slc5a7
+2q12.3	2:107986513-108014496	SLC5A7, CHT1, HMN7A, CMS20	Solute carrier family 5 (choline transporter), member 7	608761		Myasthenic syndrome, congenital, 20, presynaptic	617143	Autosomal recessive	3	Slc5a7
+2q13	2:110123335-110205061	NPHP1, NPH1, SLSN1, JBTS4	Nephrocystin	607100		Joubert syndrome 4	609583	Autosomal recessive	3	Nphp1
+2q13	2:110123335-110205061	NPHP1, NPH1, SLSN1, JBTS4	Nephrocystin	607100		Senior-Loken syndrome-1	266900	Autosomal recessive	3	Nphp1
+2q13	2:110123335-110205061	NPHP1, NPH1, SLSN1, JBTS4	Nephrocystin	607100		Nephronophthisis 1, juvenile	256100	Autosomal recessive	3	Nphp1
+2q13	2:111898478-112039945	MERTK, RP38	Mer tyrosine kinase protooncogene	604705		Retinitis pigmentosa 38	613862	Autosomal recessive	3	Mertk
+2q14.1	2:113058637-113064743	IL36RN, IL1F5, FIL1D, IL1HY1, IL1RP3, PSORP, PSORS14	Interleukin 36 receptor antagonist	605507		Psoriasis 14, pustular	614204	Autosomal recessive	3	Il1f5
+2q14.1	2:113215996-113278949	PAX8	Paired box homeotic gene-8	167415		Hypothyroidism, congenital, due to thyroid dysgenesis or hypoplasia	218700	Autosomal dominant	3	Pax8
+2q14.2	2:121530879-121531008	RNU4ATAC, U4ATAC, MOPD1, TALS, RFMN	RNA, U4, small nuclear, AT-AC form	601428		Microcephalic osteodysplastic primordial dwarfism, type I	210710	Autosomal recessive	3	
+2q14.2	2:121530879-121531008	RNU4ATAC, U4ATAC, MOPD1, TALS, RFMN	RNA, U4, small nuclear, AT-AC form	601428		Roifman syndrome	616651	Autosomal recessive	3	
+2q14.3	2:127048022-127107399	BIN1, AMPHL	Box-dependent MYC-interacting protein-1 (amphiphysin-like)	601248		Myopathy, centronuclear, autosomal recessive	255200	Autosomal recessive	3	Bin1
+2q14.3	2:127638420-127681785	LIMS2, PINCH2, LGMD2W	LIM and senescent cell antigen-like domains 2	607908	mutation identified in 1 LGMD2W family	Muscular dystrophy, limb-girdle, type 2W	616827	Autosomal recessive	3	Lims2
+2q21.3	2:135052264-135176666	RAB3GAP1, WARBM1, P130	RAB3 GTPase-activating protein, catalytic subunit	602536		Warburg micro syndrome 1	600118	Autosomal recessive	3	Rab3gap1
+2q22.2	2:142877625-143042315	KYNU, KYNUU	Kynureninase	605197	mutation identified in 1 KYNUU family	?Hydroxykynureninuria	236800	Autosomal recessive	3	Kynu
+2q23.3	2:151485333-151734486	NEB, NEM2	Nebulin	161650		Nemaline myopathy 2, autosomal recessive	256030	Autosomal recessive	3	Neb
+2q24.2	2:162267078-162318707	IFIH1, MDA5, AGS7, SGMRT1	Interferon induced with helicase C domain 1	606951		Singleton-Merten syndrome 1	182250	Autosomal dominant	3	Ifih1
+2q24.2	2:162267078-162318707	IFIH1, MDA5, AGS7, SGMRT1	Interferon induced with helicase C domain 1	606951		Aicardi-Goutieres syndrome 7	615846	Autosomal dominant	3	Ifih1
+2q24.3	2:165208055-165392309	SCN2A, SCN2A1, BFIC3, EIEE11, BFIS3, BFNIS	Sodium channel, voltage-gated, type II, alpha subunit	182390	4 related genes on chr.2	Seizures, benign familial infantile, 3	607745	Autosomal dominant	3	Scn2a
+2q24.3	2:165208055-165392309	SCN2A, SCN2A1, BFIC3, EIEE11, BFIS3, BFNIS	Sodium channel, voltage-gated, type II, alpha subunit	182390	4 related genes on chr.2	Epileptic encephalopathy, early infantile, 11	613721	Autosomal dominant	3	Scn2a
+2q24.3	2:165873361-165953837	TTC21B, THM1, NPHP12, SRTD4, ATD4	Tetratricopeptide repeat domain 21B	612014		Nephronophthisis 12	613820	Autosomal dominant; Autosomal recessive	3	Ttc21b
+2q24.3	2:165873361-165953837	TTC21B, THM1, NPHP12, SRTD4, ATD4	Tetratricopeptide repeat domain 21B	612014		Short-rib thoracic dysplasia 4 with or without polydactyly	613819	Autosomal recessive	3	Ttc21b
+2q31.1	2:169127108-169362612	LRP2, DBS	Low density lipoprotein-related protein 2	600073		Donnai-Barrow syndrome	222448	Autosomal recessive	3	Lrp2
+2q31.1	2:169479495-169506654	BBS5	BBS gene 5	603650		Bardet-Biedl syndrome 5	615983	Autosomal recessive	3	Bbs5
+2q31.1	2:173906458-173965701	SP3	Sp3 transcription factor	601804					Sp3
+2q31.2	2:177100000-179700000	DEL2q31	Chromosome 2q31.2 deletion syndrome	612345	contiguous gene deletion syndrome	Chromosome 2q31.2 deletion syndrome	612345		4	
+2q31.2	2:178450591-178461389	PJVK, DFNB59	Pejvakin	610219		Deafness, autosomal recessive 59	610220	Autosomal recessive	3	Pjvk
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Cardiomyopathy, dilated, 1G	604145		3	Ttn
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Tibial muscular dystrophy, tardive	600334	Autosomal dominant	3	Ttn
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Salih myopathy	611705	Autosomal recessive	3	Ttn
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Myopathy, proximal, with early respiratory muscle involvement	603689		3	Ttn
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Muscular dystrophy, limb-girdle, type 2J	608807	Autosomal recessive	3	Ttn
+2q31.2	2:178525988-178807422	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, SALMY	Titin	188840		Cardiomyopathy, familial hypertrophic, 9	613765	Autosomal dominant	3	Ttn
+2q31.3	2:181536671-181657106	CERKL, RP26	Ceramide kinase-like	608381		Retinitis pigmentosa 26	608380		3	Cerkl
+2q32.2	2:188974372-189012745	COL3A1	Collagen III, alpha-1 polypeptide	120180	in same 35kb segment as COL5A2	Ehlers-Danlos syndrome, type IV	130050	Autosomal dominant	3	Col3a1
+2q32.2	2:189031914-189225300	COL5A2, EDSC	Collagen V, alpha-2 polypeptide	120190	very close to COL3A1	Ehlers-Danlos syndrome, classic type	130000	Autosomal dominant	3	Col5a2
+2q32.2	2:190055699-190062728	GDF8, MSTN, MSLHP	Growth differentiation factor-8 (myostatin)	601788		Muscle hypertrophy	614160		3	Mstn
+2q33.1	2:196833003-196926994	PGAP1, MRT42	Post-GPI attachment to proteins 1	611655		Mental retardation, autosomal recessive 42	615802	Autosomal recessive	3	Pgap1
+2q33.1	2:201071738-201085749	NDUFB3	NADH-ubiquinone oxidoreductase 1 beta subcomplex, 3	603839	pseudogenes on chr. 1, 9, and 14	Mitochondrial complex I deficiency	252010	X-linked dominant; Autosomal recessive; Mitochondrial	3	Ndufb3
+2q33.1	2:201700262-201781171	ALS2, ALSJ, PLSJ, IAHSP	Alsin	606352		Spastic paralysis, infantile onset ascending	607225	Autosomal recessive	3	Als2
+2q33.1	2:201700262-201781171	ALS2, ALSJ, PLSJ, IAHSP	Alsin	606352		Primary lateral sclerosis, juvenile	606353	Autosomal recessive	3	Als2
+2q33.1	2:201700262-201781171	ALS2, ALSJ, PLSJ, IAHSP	Alsin	606352		Amyotrophic lateral sclerosis 2, juvenile	205100	Autosomal recessive	3	Als2
+2q33.2	2:203867787-203873959	CTLA4, IDDM12, CELIAC3, ALPS5	Cytotoxic T-lymphocyte-associated serine esterase-4	123890		{Celiac disease, susceptibility to, 3}	609755		3	Ctla4
+2q33.2	2:203867787-203873959	CTLA4, IDDM12, CELIAC3, ALPS5	Cytotoxic T-lymphocyte-associated serine esterase-4	123890		Autoimmune lymphoproliferative syndrome, type V	616100	Autosomal dominant	3	Ctla4
+2q33.2	2:203867787-203873959	CTLA4, IDDM12, CELIAC3, ALPS5	Cytotoxic T-lymphocyte-associated serine esterase-4	123890		{Systemic lupus erythematosus, susceptibility to}	152700	Autosomal dominant	3	Ctla4
+2q33.2	2:203867787-203873959	CTLA4, IDDM12, CELIAC3, ALPS5	Cytotoxic T-lymphocyte-associated serine esterase-4	123890		{Hashimoto thyroiditis}	140300	Autosomal dominant	3	Ctla4
+2q33.2	2:203867787-203873959	CTLA4, IDDM12, CELIAC3, ALPS5	Cytotoxic T-lymphocyte-associated serine esterase-4	123890		{Diabetes mellitus, insulin-dependent, 12}	601388		3	Ctla4
+2q33.3	2:206121970-206159518	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kD	157655		Mitochondrial complex I deficiency	252010	X-linked dominant; Autosomal recessive; Mitochondrial	3	Ndufs1
+2q33.3	2:206765387-206868283	FASTKD2, KIAA0971	FAST kinase domains 2	612322	mutation identified in 1 family	?Mitochondrial complex IV deficiency	220110	Autosomal recessive; Mitochondrial	3	Fastkd2
+2q34	2:208266177-208358750	PIKFYVE, PIP5K3	Phosphatidylinositol kinase, FYVE-finger containing	609414		Corneal fleck dystrophy	121850	Autosomal dominant	3	Pikfyve
+2q35	2:214931541-215138590	ABCA12, ARCI4A, ARCI4B, ICR2B, LI2	ATP-binding cassette, subfamily A, member 12	607800		Ichthyosis, congenital, autosomal recessive 4A	601277	Autosomal recessive	3	Abca12
+2q35	2:214931541-215138590	ABCA12, ARCI4A, ARCI4B, ICR2B, LI2	ATP-binding cassette, subfamily A, member 12	607800		Ichthyosis, congenital, autosomal recessive 4B (harlequin)	242500	Autosomal recessive	3	Abca12
+2q35	2:216672104-216695548	IGFBP5, IBP5	Insulin-like growth factor-binding protein 5	146734					Igfbp5
+2q35	2:218659655-218663442	BCS1L, FLNMS, GRACILE, BJS, PTD, MC3DN1	bcs1, S. cerevisiae, homolog-like	603647		Mitochondrial complex III deficiency, nuclear type 1	124000	Autosomal recessive	3	Bcs1l
+2q35	2:218659655-218663442	BCS1L, FLNMS, GRACILE, BJS, PTD, MC3DN1	bcs1, S. cerevisiae, homolog-like	603647		Leigh syndrome	256000	Autosomal recessive; Mitochondrial	3	Bcs1l
+2q35	2:218659655-218663442	BCS1L, FLNMS, GRACILE, BJS, PTD, MC3DN1	bcs1, S. cerevisiae, homolog-like	603647		GRACILE syndrome	603358		3	Bcs1l
+2q35	2:218659655-218663442	BCS1L, FLNMS, GRACILE, BJS, PTD, MC3DN1	bcs1, S. cerevisiae, homolog-like	603647		Bjornstad syndrome	262000	Autosomal recessive	3	Bcs1l
+2q35	2:218874115-218893930	WNT10A, SSPS, STHAG4, OODD	Wingless-type MMTV integration site family, member 10A	606268		Tooth agenesis, selective, 4	150400	Autosomal dominant; Autosomal recessive	3	Wnt10a
+2q35	2:218874115-218893930	WNT10A, SSPS, STHAG4, OODD	Wingless-type MMTV integration site family, member 10A	606268		Schopf-Schulz-Passarge syndrome	224750	Autosomal recessive	3	Wnt10a
+2q35	2:218874115-218893930	WNT10A, SSPS, STHAG4, OODD	Wingless-type MMTV integration site family, member 10A	606268		Odontoonychodermal dysplasia	257980	Autosomal recessive	3	Wnt10a
+2q35	2:219075323-219160864	NHEJ1, XLF	Nonhomologous end-joining factor 1	611290		Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	611291		3	Nhej1
+2q35	2:219279317-219286899	DNAJB2, HSJ1, HSPF3, DSMA5	DnaJ, E. coli, homolog of, subfamily B, member 2 (heat-shock protein, DNAJ-like 1)	604139		Spinal muscular atrophy, distal, autosomal recessive, 5	614881	Autosomal recessive	3	Dnajb2
+2q35	2:219418376-219426738	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	Desmin	125660	1 family with LGMD2R identified with mutation	Scapuloperoneal syndrome, neurogenic, Kaeser type	181400	Autosomal dominant	3	Des
+2q35	2:219418376-219426738	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	Desmin	125660	1 family with LGMD2R identified with mutation	Myopathy, myofibrillar, 1	601419	Autosomal dominant; Autosomal recessive	3	Des
+2q35	2:219418376-219426738	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	Desmin	125660	1 family with LGMD2R identified with mutation	Cardiomyopathy, dilated, 1I	604765		3	Des
+2q35	2:219418376-219426738	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	Desmin	125660	1 family with LGMD2R identified with mutation	?Muscular dystrophy, limb-girdle, type 2R	615325	Autosomal recessive	3	Des
+2q35	2:219498864-219506995	GMPPA, AAMR	GDP-mannose pyrophosphorylase A	615495		Alacrima, achalasia, and mental retardation syndrome	615510	Autosomal recessive	3	Gmppa
+2q36.3	2:227164564-227314791	COL4A3	Collagen IV, alpha-3 polypeptide (Goodpasture antigen)	120070	noncollagenous domain = Goodpasture antigen	Hematuria, benign familial	141200	Autosomal dominant	3	Col4a3
+2q36.3	2:227164564-227314791	COL4A3	Collagen IV, alpha-3 polypeptide (Goodpasture antigen)	120070	noncollagenous domain = Goodpasture antigen	Alport syndrome, autosomal recessive	203780	Autosomal recessive	3	Col4a3
+2q36.3	2:227164564-227314791	COL4A3	Collagen IV, alpha-3 polypeptide (Goodpasture antigen)	120070	noncollagenous domain = Goodpasture antigen	Alport syndrome, autosomal dominant	104200	Autosomal dominant	3	Col4a3
+2q37.1	2:231198545-231394990	ARMC9, KIAA1868, JBTS30	Armadillo repeat-containing protein 9	617612		Joubert syndrome 30	617622	Autosomal recessive	3	Armc9
+2q37.1	2:231961582-232343967	DIS3L2, PRLMNS	Dis3 mitotic control, S. cerevisiae, homolog-like 2	614184		Perlman syndrome	267000	Autosomal recessive	3	Dis3l2
+2q37.1	2:232539726-232546327	CHRNG, ACHRG	Cholinergic receptor, nicotinic, gamma polypeptide	100730	tightly linked to CHRND by RE	Multiple pterygium syndrome, lethal type	253290	Autosomal recessive	3	Chrng
+2q37.1	2:232539726-232546327	CHRNG, ACHRG	Cholinergic receptor, nicotinic, gamma polypeptide	100730	tightly linked to CHRND by RE	Escobar syndrome	265000	Autosomal recessive	3	Chrng
+2q37.1	2:232765801-232776564	KCNJ13, SVD, LCA16	Potassium inwardly-rectifying channel, subfamily J, member 13	603208		Snowflake vitreoretinal degeneration	193230	Autosomal dominant	3	Kcnj13
+2q37.1	2:232765801-232776564	KCNJ13, SVD, LCA16	Potassium inwardly-rectifying channel, subfamily J, member 13	603208		Leber congenital amaurosis 16	614186	Autosomal recessive	3	Kcnj13
+2q37.2	2:234951983-235055713	SH3BP4, BOG25	SH3 domain-binding protein 4	605611					Sh3bp4
+2q37.3	2:237324011-237434821	COL6A3, DYT27, BTHLM1, UCMD1	Collagen VI, alpha-3 polypeptide	120250	close to CRBP1	Dystonia 27	616411	Autosomal recessive	3	Col6a3
+2q37.3	2:237324011-237434821	COL6A3, DYT27, BTHLM1, UCMD1	Collagen VI, alpha-3 polypeptide	120250	close to CRBP1	Bethlem myopathy 1	158810	Autosomal dominant; Autosomal recessive	3	Col6a3
+2q37.3	2:237324011-237434821	COL6A3, DYT27, BTHLM1, UCMD1	Collagen VI, alpha-3 polypeptide	120250	close to CRBP1	Ullrich congenital muscular dystrophy 1	254090	Autosomal dominant; Autosomal recessive	3	Col6a3
+2q37.3	2:238320488-238400899	TRAF3IP1, MIPT3, SLSN9	TNF receptor-associated factor 3-interacting protein 1	607380		Senior-Loken syndrome 9	616629	Autosomal recessive	3	Traf3ip1
+2q37.3	2:239892449-240025401	NDUFA10	NADH-ubiquinone oxidoreductase 1 alpha subcomplex, 10	603835		Leigh syndrome	256000	Autosomal recessive; Mitochondrial	3	Ndufa10
+2q37.3	2:241849880-241858907	PDCD1, SLEB2	Programmed cell death 1	600244		{Systemic lupus erythematosus, susceptibility to, 2}	605218		3	Pdcd1
+2q37.3	2:241849880-241858907	PDCD1, SLEB2	Programmed cell death 1	600244		{Multiple sclerosis, disease progression, modifier of}	126200	Multifactorial	3	Pdcd1
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Rippling muscle disease	606072	Autosomal dominant	3	Cav3
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Myopathy, distal, Tateyama type	614321	Autosomal dominant	3	Cav3
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Muscular dystrophy, limb-girdle, type IC	607801	Autosomal dominant; Autosomal recessive	3	Cav3
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Long QT syndrome 9	611818	Autosomal dominant	3	Cav3
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Creatine phosphokinase, elevated serum	123320	Autosomal dominant	3	Cav3
+3p25.3	3:8733799-8746764	CAV3, LGMD1C, LQT9	Caveolin-3	601253	within 7-10kb of OXTR	Cardiomyopathy, familial hypertrophic	192600	Autosomal dominant	3	Cav3
+3p25.3	3:9649432-9702393	MTMR14, C3orf29, HJUMPY	Myotubularin-related protein 14	611089		{Centronuclear myopathy, autosomal, modifier of}	160150	Autosomal dominant	3	Mtmr14
+3p25.3	3:9866709-9880253	CIDEC, FSP27, CIDE3, FPLD5	Cell death-inducing DFFA-like effector C	612120	1 patient identified with mutation	?Lipodystrophy, familial partial, type 5	615238	Autosomal recessive	3	Cidec
+3p25.3	3:11137092-11263252	HRH1	Histamine receptor, subclass H1	600167					Hrh1
+3p25.3	3:11272323-11564703	ATG7, APG7L, GSA7	Autophagy 7, S. cerevisiae, homolog of	608760					Atg7
+3p25.1-p23	3:13200000-32000000	LGMD1H	Muscular dystrophy, limb-girdle, type 1H	613530	between D3S1263 and D3S1277	Muscular dystrophy, limb-girdle, type 1H	613530	Autosomal dominant	2	
+3p25.1	3:13818107-13880120	WNT7A	Wingless-type MMTV integration site family, member 7A	601570		Ulna and fibula, absence of, with severe limb deficiency	276820	Autosomal recessive	3	Wnt7a
+3p25.1	3:13818107-13880120	WNT7A	Wingless-type MMTV integration site family, member 7A	601570		Fuhrmann syndrome	228930	Autosomal recessive	3	Wnt7a
+3p25.1	3:14124939-14143679	TMEM43, ARVD5, ARVC5, EDMD7	Transmembrane protein 43	612048		Emery-Dreifuss muscular dystrophy 7, AD	614302	Autosomal dominant	3	Tmem43
+3p25.1	3:14124939-14143679	TMEM43, ARVD5, ARVC5, EDMD7	Transmembrane protein 43	612048		Arrhythmogenic right ventricular dysplasia 5	604400	Autosomal dominant	3	Tmem43
+3p22.2	3:36993349-37050845	MLH1, COCA2, HNPCC2	mutL, E. coli, homolog of, 1	120436		Mismatch repair cancer syndrome	276300	Autosomal recessive	3	Mlh1
+3p22.2	3:36993349-37050845	MLH1, COCA2, HNPCC2	mutL, E. coli, homolog of, 1	120436		Colorectal cancer, hereditary nonpolyposis, type 2	609310		3	Mlh1
+3p22.2	3:36993349-37050845	MLH1, COCA2, HNPCC2	mutL, E. coli, homolog of, 1	120436		Muir-Torre syndrome	158320	Autosomal dominant	3	Mlh1
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		{Sudden infant death syndrome, susceptibility to}	272120	Autosomal recessive	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Cardiomyopathy, dilated, 1E	601154	Autosomal dominant	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Ventricular fibrillation, familial, 1	603829		3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Brugada syndrome 1	601144	Autosomal dominant	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Sick sinus syndrome 1	608567	Autosomal recessive	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Atrial fibrillation, familial, 10	614022	Autosomal dominant	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Long QT syndrome-3	603830	Autosomal dominant	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Heart block, progressive, type IA	113900	Autosomal dominant	3	Scn5a
+3p22.2	3:38548060-38649672	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	Sodium channel, voltage-gated, type V, alpha polypeptide	600163		Heart block, nonprogressive	113900	Autosomal dominant	3	Scn5a
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Exudative vitreoretinopathy 7	617572	Autosomal dominant	3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Pilomatricoma, somatic	132600		3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Colorectal cancer, somatic	114500		3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Ovarian cancer, somatic	167000		3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Mental retardation, autosomal dominant 19	615075	Autosomal dominant	3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Medulloblastoma, somatic	155255		3	Ctnnb1
+3p22.1	3:41199450-41240447	CTNNB1, MRD19, EVR7	Catenin (cadherin-associated protein), beta 1, 88kD	116806		Hepatocellular carcinoma, somatic	114550		3	Ctnnb1
+3p22.1	3:43079228-43106091	POMGNT2, GTDC2, C3orf39, AGO61, MDDGA8	Protein O-mannose beta-1,2-N-acetylglucosaminyltransferase 2	614828		Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies, type A, 8	614830	Autosomal recessive	3	Pomgnt2
+3p21.33	3:43690882-43722724	ABHD5, CGI58, IECN2, NCIE2	Abhydrolase domain containing 5	604780		Chanarin-Dorfman syndrome	275630	Autosomal recessive	3	Abhd5
+3p21.31	3:45823315-45916041	LZTFL1, BBS17	Leucine zipper transcription factor-like 1	606568		Bardet-Biedl syndrome 17	615994	Autosomal recessive	3	Lztfl1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Toenail dystrophy, isolated	607523	Autosomal dominant	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		EBD, Bart type	132000	Autosomal dominant	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Epidermolysis bullosa, pretibial	131850	Autosomal dominant; Autosomal recessive	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		EBD inversa	226600	Autosomal recessive	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Epidermolysis bullosa pruriginosa	604129	Autosomal dominant; Autosomal recessive	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Epidermolysis bullosa dystrophica, AR	226600	Autosomal recessive	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Epidermolysis bullosa dystrophica, AD	131750	Autosomal dominant	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		Transient bullous of the newborn	131705	Autosomal dominant; Autosomal recessive	3	Col7a1
+3p21.31	3:48564072-48595301	COL7A1, NDNC8	Collagen VII, alpha-1 polypeptide	120120		EBD, localisata variant			3	Col7a1
+3p21.31	3:49020474-49023494	NDUFAF3	NADH dehydrogenase 1 alpha subcomplex, assembly factor 3	612911		Mitochondrial complex I deficiency	252010	X-linked dominant; Autosomal recessive; Mitochondrial	3	Ndufaf3
+3p21.31	3:49121113-49133165	LAMB2, LAMS, NPHS5	Laminin, beta-2 (laminin S)	150325		Pierson syndrome	609049	Autosomal recessive	3	Lamb2
+3p21.31	3:49121113-49133165	LAMB2, LAMS, NPHS5	Laminin, beta-2 (laminin S)	150325		Nephrotic syndrome, type 5, with or without ocular abnormalities	614199		3	Lamb2
+3p21.31	3:49416777-49422677	AMT, NKH, GCE	Aminomethyltransferase (glycine cleavage system protein T)	238310		Glycine encephalopathy	605899	Autosomal recessive	3	Amt
+3p21.31	3:49468702-49535617	DAG1, DAG, MDDGC9, MDDGA9	Dystrophin-associated glycoprotein-1	128239		Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 9	613818	Autosomal recessive	3	Dag1
+3p21.31	3:49468702-49535617	DAG1, DAG, MDDGC9, MDDGA9	Dystrophin-associated glycoprotein-1	128239		Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 9	616538	Autosomal recessive	3	Dag1
+3p21.31	3:49721475-49723973	GMPPB, KIAA1851, MDDGA14, MDDGB14, MDDGC14	GDP-mannose pyrophosphorylase B	615320		Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 14	615351	Autosomal recessive	3	Gmppb
+3p21.31	3:49721475-49723973	GMPPB, KIAA1851, MDDGA14, MDDGB14, MDDGC14	GDP-mannose pyrophosphorylase B	615320		Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 14	615350	Autosomal recessive	3	Gmppb
+3p21.31	3:49721475-49723973	GMPPB, KIAA1851, MDDGA14, MDDGB14, MDDGC14	GDP-mannose pyrophosphorylase B	615320		Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 14	615352	Autosomal recessive	3	Gmppb
+
+
+
+Phenotype Mapping Key
+1 - The disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - The disorder was placed on the map by statistical methods.
+3 - The molecular basis of the disorder is known.
+4 - A contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+
+

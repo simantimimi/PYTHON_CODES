@@ -1,0 +1,92 @@
+Acid Maltase Deficiency (AMD)
+Amyotrophic Lateral Sclerosis (ALS)[has]
+Andersen-Tawil Syndrome [has]
+Becker Muscular Dystrophy (BMD) [has]
+Becker Myotonia Congenita [omim]
+Bethlem Myopathy [has]
+Bulbospinal Muscular Atrophy (Spinal-Bulbar Muscular Atrophy) [omim]
+Carnitine Deficiency [has]
+Carnitine Palmityl Transferase Deficiency (CPT Deficiency) [omim]
+Central Core Disease (CCD) [omim]
+Centronuclear Myopathy [omim]
+Charcot-Marie-Tooth Disease (CMT) [has]
+Congenital Muscular Dystrophy (CMD) [has]
+Congenital Myasthenic Syndromes (CMS) [omim]
+Congenital Myotonic Dystrophy [no data]
+Cori Disease (Debrancher Enzyme Deficiency) [no data]
+Debrancher Enzyme Deficiency
+Dejerine-Sottas Disease (DSD)
+Dermatomyositis (DM) [has]
+Distal Muscular Dystrophy (DD) [has]
+Duchenne Muscular Dystrophy (DMD) [has]
+Dystrophia Myotonica (Myotonic Muscular Dystrophy)
+Emery-Dreifuss Muscular Dystrophy (EDMD) [has]
+Endocrine Myopathies
+Eulenberg Disease (Paramyotonia Congenita)
+Facioscapulohumeral Muscular Dystrophy (FSH or FSHD) [has]
+Finnish (Tibial) Distal Myopathy [has]
+Forbes Disease (Debrancher Enzyme Deficiency)
+Friedreich’s Ataxia (FA) [has]
+Fukuyama Congenital Muscular Dystrophy [has]
+Glycogenosis Type 10
+Glycogenosis Type 11
+Glycogenosis Type 2
+Glycogenosis Type 3
+Glycogenosis Type 5
+Glycogenosis Type 7
+Glycogenosis Type 9
+Gowers-Laing Distal Myopathy
+Hauptmann-Thanheuser MD (Emery-Dreifuss Muscular Dystrophy) [has]
+Hereditary Inclusion-Body Myositis
+Hereditary Motor and Sensory Neuropathy (Charcot-Marie-Tooth Disease) [has]
+Hyperthyroid Myopathy
+Hypothyroid Myopathy
+Inclusion-Body Myositis (IBM)
+Inherited Myopathies
+Integrin-Deficient Congenital Muscular Dystrophy
+Kennedy Disease (Spinal-Bulbar Muscular Atrophy)
+Kugelberg-Welander Disease (Spinal Muscular Atrophy)
+Lactate Dehydrogenase Deficiency
+Lambert-Eaton Myasthenic Syndrome (LEMS) [has]
+Limb-Girdle Muscular Dystrophy (LGMD) [has]
+Lou Gehrig’s Disease (Amyotrophic Lateral Sclerosis) [has]
+McArdle Disease (Phosphorylase Deficiency)
+Merosin-Deficient Congenital Muscular Dystrophy [has]
+Metabolic Diseases of Muscle
+Mitochondrial Myopathy[has]
+Miyoshi Distal Myopathy
+Motor Neurone Disease
+Muscle-Eye-Brain Disease
+Myasthenia Gravis (MG) [has]
+Myoadenylate Deaminase Deficiency
+Myofibrillar Myopathy [has]
+Myophosphorylase Deficiency
+Myotonia Congenita (MC) [has]
+Myotonic Muscular Dystrophy (MMD) [has]
+Myotubular Myopathy (MTM or MM)
+Nemaline Myopathy [has]
+Nonaka Distal Myopathy
+Oculopharyngeal Muscular Dystrophy (OPMD) [has]
+Paramyotonia Congenita
+Pearson Syndrome [has]
+Periodic Paralysis [has]
+Peroneal Muscular Atrophy (Charcot-Marie-Tooth Disease) [has]
+Phosphofructokinase Deficiency
+Phosphoglycerate Kinase Deficiency
+Phosphoglycerate Mutase Deficiency
+Phosphorylase Deficiency
+Phosphorylase Deficiency
+Polymyositis (PM)
+Pompe Disease (Acid Maltase Deficiency)
+Progressive External Ophthalmoplegia (PEO) [has]
+Rod Body Disease (Nemaline Myopathy) [has]
+Spinal Muscular Atrophy (SMA) [has]
+Spinal-Bulbar Muscular Atrophy (SBMA)
+Steinert Disease (Myotonic Muscular Dystrophy)
+Tarui Disease (Phosphofructokinase Deficiency)
+Thomsen Disease (Myotonia Congenita)
+Ullrich Congenital Muscular Dystrophy
+Walker-Warburg Syndrome (Congenital Muscular Dystrophy) [has]
+Welander Distal Myopathy
+Werdnig-Hoffmann Disease (Spinal Muscular Atrophy) [has]
+ZASP-Related Myopathy
